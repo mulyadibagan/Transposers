@@ -24,7 +24,7 @@ span.c {
 	width: 2.25em;
 	text-align: center;
 	margin: 0 .25em .25em 0;
-	color: #333;
+	color: #000;
 	background: #e00;
 	text-decoration: none;
 	padding: .4em 0;
@@ -33,5 +33,5 @@ span.c {
 }
 .transpose-keys a.selected { 
   background: #c7084b; 
-  color: #DC143C;
+  color: #e00;
 }
